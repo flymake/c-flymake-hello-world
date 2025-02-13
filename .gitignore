@@ -1,3 +1,6 @@
 /flymake_hello_world
 !/flymake_hello_world.?
 *.o
+
+# OS generated
+.DS_Store
